@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Track Day
 
-You can use the [editor on GitHub](https://github.com/madsbf/trackday-landing-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+With Track Day, you can accurately monitor your pace when running on a track. Type in your goal pace and distance for each interval, and Track Day will help you keep the pace as you run.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The watch will show you a countdown for each 100m and vibrate exactly when you should hit each 100m. Additionally, the app will allow you to plan several different intervals with distance and pace that can be run in succession.
 
-### Markdown
+With Track Day, you:
+Don't have to calculate the time it will take you to run 100m or a single lap in a given pace.
+Don't have to remember the different intervals you should switch between.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The app handles this for you, and will indicate to you when you are running too fast or too slow.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madsbf/trackday-landing-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://play.google.com/store/apps/details?id=me.madsbf.bane
